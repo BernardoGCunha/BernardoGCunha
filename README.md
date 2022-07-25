@@ -14,3 +14,4 @@ Hello, I'm Bernardo Garcia Cunha. I got interested in software development and n
 
 - Email: beegcunha15@gmail.com
 - GitHub: @BernardoGCunha
+- LinkedIn:
