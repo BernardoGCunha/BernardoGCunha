@@ -8,7 +8,7 @@ Hello, I'm Bernardo Garcia Cunha. I got interested in software development and n
 
 ## Currently studying
 
-- Node.js.
+- Node.js
 
 ## My contacts
 
